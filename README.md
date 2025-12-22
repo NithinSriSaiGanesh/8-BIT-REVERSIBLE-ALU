@@ -100,12 +100,10 @@ Applications
 * Reversible and quantum-inspired computing
 * Research and academic design exploration
 
-Author
+Author<br>
+Nithin Gopisetty<br>
 
-Nithin Gopisetty
-
-📧 nithingopisetty2516@gmail.com
-
+📧 nithingopisetty2516@gmail.com<br>
 🔗 linkedin.com/in/nithin2516
 
 
