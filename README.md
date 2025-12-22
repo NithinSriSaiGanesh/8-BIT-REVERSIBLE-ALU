@@ -101,8 +101,11 @@ Applications
 * Research and academic design exploration
 
 Author
+
 Nithin Gopisetty
+
 📧 nithingopisetty2516@gmail.com
-🔗 
+🔗 linkedin.com/in/nithin2516
+
 
 
