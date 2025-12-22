@@ -104,7 +104,7 @@ Author<br>
 Nithin Gopisetty<br>
 
 📧 nithingopisetty2516@gmail.com<br>
-🔗 linkedin.com/in/nithin2516
+🔗 www.linkedin.com/in/nithin2516
 
 
 
