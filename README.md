@@ -66,7 +66,7 @@ Key Design Blocks
 * Controlled using opcode bits
 
 
-Testbench (Concept Overview)
+Testbench 
 
 The testbench verifies functional correctness through:
 
@@ -84,7 +84,6 @@ Simulation and Verification
 * Outputs validated against expected results
 * Waveforms confirm correct ALU behavior and carry propagation
 
-*(Add waveform screenshots here)*
 
 
 Tools Used
