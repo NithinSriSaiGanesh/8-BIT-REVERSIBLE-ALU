@@ -29,8 +29,8 @@ module dkgp1bit_db (
     input p, q, r, s,       // p = A, q = B, r = Cin, s = 0
     output a, b, c, d       // c = Sum, d = Carry
 );
-    assign a = p ^ r;                       // Garbage
-    assign b = q;                           // Garbage
+    assign a = p ^ r;                       
+    assign b = q;                           
     assign c = p ^ q ^ r;                   // Sum
     assign d = (p & q) | (r & (p ^ q));     // Carry
 endmodule
